@@ -1,0 +1,14 @@
+img {
+   width: 35%;
+   display: block;
+   margin-left: auto;
+   margin-right: auto
+
+}
+
+body {
+ background-image: url(universe.jpg);
+ background-repeat: no-repeat;
+ background-attachment: fixed;
+ background-size: cover;
+}
