@@ -1,8 +1,9 @@
 import flask
 
-# from app.routes import Config
+from app.config import Config
 
 app = flask.Flask(__name__)
-# app.config.from_object(Config)
+
+app.config.from_object(Config)
 
 from app import routes

@@ -1,2 +1,3 @@
-# class Config:
-#     SECRET_KEY = "B&E)H@McQeThWmZq"
+class Config:
+    SECRET_KEY = "TjWnZr4t7w!z%C*F"
+
